@@ -30,5 +30,5 @@ Este programa permite convertir entre diferentes monedas usando una API pública
 ### 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ConversorMonedasJava.git
+git clone https://github.com/juanca2004RG/Conversor-de-Monedas-
 cd ConversorMonedasJava
